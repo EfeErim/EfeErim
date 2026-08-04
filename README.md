@@ -1,16 +1,15 @@
-## Hi there 👋
+# Efe Erim
 
-<!--
-**EfeErim/EfeErim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering graduate building practical AI, data, and operations projects in Python.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[AADS — Open-World Plant Disease Recognition](https://github.com/EfeErim/aads-open-world-plant-disease)** — PyTorch pipeline with crop/part routing, LoRA adapters, and a review path for unsupported inputs.
+- **[EvoRacer AI Lab](https://github.com/EfeErim/evo-racer-ai-lab)** — Offline Windows app for comparing Fixed GA and NEAT on deterministic, user-built tracks.
+- **[AeroMaintain AI](https://github.com/EfeErim/aeromaintain-ai)** — NASA C-MAPSS RUL modeling with engine-grouped validation, prediction intervals, and maintenance risk ranking.
+
+## Tools
+
+Python · SQL · PyTorch · scikit-learn · OR-Tools · Power BI · TypeScript
+
+[LinkedIn](https://www.linkedin.com/in/Efe-Erim)
